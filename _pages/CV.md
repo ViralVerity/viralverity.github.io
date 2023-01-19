@@ -1,0 +1,10 @@
+---
+layout: default
+---
+
+<section>
+<center>
+<embed style="overflow:hidden" height=800 width=800 src="{{ site.baseurl }}/assets/CV.pdf" 
+ type="application/pdf">
+ </center>
+</section>
