@@ -20,7 +20,7 @@ feature_row3:
  - title: "Practical phylogenetics"
    excerpt: "Phylodynamics is great, but it's slow and can be complicated to interpret. Condensing genomic information into easier to understand analyses with quick turnaround times has been an important part of my career so far. 
    I was a co-developer on [civet](https://cov-lineages.org/resources/civet.html) and [grinch](https://cov-lineages.org/index.html#global_reports), both designed to make the huge amount of SARS-CoV-2 genomic data accessible and useable for data producers and the general public respectively.
-   In my current job, I'm developing a tool to designate and assign lineages for Dengue virus (similar to the [pango lineage system](https://www.pango.network/)) to better describe global Dengue diversity, again without the need to perform complex analyses.
+   In my current job, I've developed (along with a large global collaboration) a lineage system for Dengue virus (similar to the [pango lineage system](https://www.pango.network/)) to better describe global Dengue diversity, again without the need to perform complex analyses. More information [here](https://dengue-lineages.org/)
    "
    
 feature_row4:
