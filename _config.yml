@@ -94,7 +94,7 @@ author:
   avatar           : "/assets/images/Verity.png"
   bio              : "Phylodynamics for public health"
   location         : 
-  email            : "verity.hill@yale.edu"
+  email            : "verity.hill@glasgow.ac.uk"
   uri              : "https://scholar.google.com/citations?user=uD90gFUAAAAJ&hl=en"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -115,7 +115,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "viralverity"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
