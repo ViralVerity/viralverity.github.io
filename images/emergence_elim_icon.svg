@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 735.71 333.67">
+  <!-- Generator: Adobe Illustrator 30.7.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 114)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #59818b;
+      }
+
+      .st0, .st1, .st2 {
+        stroke-width: 3px;
+      }
+
+      .st0, .st1, .st2, .st3, .st4 {
+        stroke-miterlimit: 10;
+      }
+
+      .st0, .st2 {
+        stroke: #59818a;
+      }
+
+      .st1 {
+        fill: #c38ebf;
+        stroke: #c38ebf;
+      }
+
+      .st2, .st3, .st4 {
+        fill: none;
+      }
+
+      .st5 {
+        fill: #1c3940;
+      }
+
+      .st3 {
+        stroke: #c38fc0;
+      }
+
+      .st3, .st4 {
+        stroke-width: 2px;
+      }
+
+      .st6 {
+        font-size: 15px;
+      }
+
+      .st6, .st7 {
+        fill: #231f20;
+        font-family: HelveticaNeue-Light, 'Helvetica Neue';
+        font-weight: 300;
+      }
+
+      .st4 {
+        stroke: #1c3940;
+      }
+
+      .st7 {
+        font-size: 19px;
+      }
+    </style>
+  </defs>
+  <text class="st7" transform="translate(136.57 42.7)"><tspan x="0" y="0">True tree</tspan></text>
+  <text class="st7" transform="translate(479.87 38.76)"><tspan x="0" y="0">Tree with only one sampled </tspan><tspan x="36.96" y="22.8">location/population</tspan></text>
+  <line class="st2" x1="19.25" y1="185.28" x2="53.72" y2="185.28"/>
+  <line class="st2" x1="53.72" y1="212.38" x2="53.72" y2="158.18"/>
+  <line class="st2" x1="52.72" y1="158.18" x2="87.18" y2="158.18"/>
+  <line class="st2" x1="52.72" y1="212.38" x2="119.77" y2="212.38"/>
+  <line class="st2" x1="120.4" y1="256.79" x2="120.4" y2="157.18"/>
+  <line class="st3" x1="120.34" y1="158.18" x2="175.06" y2="158.18"/>
+  <line class="st3" x1="119.34" y1="256.79" x2="153.8" y2="256.79"/>
+  <line class="st3" x1="175.23" y1="185.28" x2="175.23" y2="131.09"/>
+  <line class="st3" x1="175.16" y1="132.09" x2="209.62" y2="132.09"/>
+  <line class="st3" x1="174.16" y1="185.28" x2="208.62" y2="185.28"/>
+  <line class="st2" x1="210.82" y1="159.18" x2="210.82" y2="104.99"/>
+  <line class="st2" x1="209.82" y1="105.99" x2="244.28" y2="105.99"/>
+  <line class="st2" x1="209.82" y1="159.18" x2="276.88" y2="159.18"/>
+  <line class="st3" x1="154.71" y1="284.28" x2="154.71" y2="230.08"/>
+  <line class="st3" x1="153.54" y1="230.08" x2="208.27" y2="230.08"/>
+  <line class="st3" x1="153.54" y1="283.28" x2="244.28" y2="283.28"/>
+  <line class="st2" x1="208.43" y1="257.18" x2="208.43" y2="202.99"/>
+  <line class="st2" x1="208.36" y1="204.18" x2="242.83" y2="204.18"/>
+  <line class="st2" x1="207.36" y1="256.18" x2="241.83" y2="256.18"/>
+  <line class="st2" x1="467.99" y1="189.43" x2="502.46" y2="189.43"/>
+  <line class="st2" x1="502.46" y1="216.53" x2="502.46" y2="162.34"/>
+  <line class="st2" x1="501.46" y1="162.34" x2="535.92" y2="162.34"/>
+  <line class="st2" x1="501.46" y1="216.53" x2="568.51" y2="216.53"/>
+  <line class="st2" x1="569.15" y1="260.94" x2="569.15" y2="161.34"/>
+  <line class="st2" x1="660.56" y1="185.34" x2="660.56" y2="131.14"/>
+  <line class="st2" x1="659.56" y1="131.14" x2="694.02" y2="131.14"/>
+  <line class="st2" x1="659.56" y1="185.34" x2="726.62" y2="185.34"/>
+  <line class="st2" x1="636.73" y1="287.28" x2="636.73" y2="233.08"/>
+  <line class="st2" x1="636.67" y1="234.28" x2="671.13" y2="234.28"/>
+  <line class="st2" x1="635.67" y1="287.28" x2="670.13" y2="287.28"/>
+  <line class="st2" x1="569.61" y1="260.18" x2="636.67" y2="260.18"/>
+  <line class="st2" x1="567.94" y1="161.34" x2="661.56" y2="161.34"/>
+  <text class="st6" transform="translate(402.59 300.24)"><tspan x="0" y="0">Missing re-introductions </tspan></text>
+  <g>
+    <line class="st4" x1="479.14" y1="283.28" x2="582.89" y2="182.38"/>
+    <path class="st5" d="M591.54,173.96c-2.6,5.47-5.15,12.96-5.62,18.74l-4.17-9.22-9.1-4.42c5.79-.32,13.35-2.65,18.89-5.1Z"/>
+  </g>
+  <g>
+    <line class="st4" x1="479.14" y1="283.28" x2="565.14" y2="263.84"/>
+    <path class="st5" d="M576.92,261.18c-5.08,3.31-11.16,8.37-14.58,13.05l1.26-10.04-5.45-8.52c5.1,2.75,12.77,4.71,18.77,5.51Z"/>
+  </g>
+  <text class="st6" transform="translate(325.11 86.67)"><tspan x="0" y="0">CCHFV</tspan></text>
+  <text class="st6" transform="translate(325.65 202.25)"><tspan x="0" y="0">HCV</tspan></text>
+  <circle class="st0" cx="312.2" cy="106.55" r="6.22"/>
+  <circle class="st1" cx="312.2" cy="134.73" r="6.22"/>
+  <circle class="st0" cx="305.98" cy="221.19" r="6.22"/>
+  <circle class="st1" cx="305.98" cy="249.37" r="6.22"/>
+  <text class="st6" transform="translate(329.96 111.49)"><tspan x="0" y="0">Human</tspan></text>
+  <text class="st6" transform="translate(329.38 140.95)"><tspan x="0" y="0">Cow</tspan></text>
+  <text class="st6" transform="translate(324.24 226.13)"><tspan x="0" y="0">East Glasgow</tspan></text>
+  <text class="st6" transform="translate(323.65 255.59)"><tspan x="0" y="0">West Glasgow</tspan></text>
+</svg>
